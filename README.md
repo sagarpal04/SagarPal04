@@ -13,6 +13,12 @@
 
 ---
 
+## 🟩 LeetCode Profile
+
+[![LeetCode Badge](https://img.shields.io/badge/LeetCode-Sagar%20Pal-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/sagarpal0402/)
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/sagarpal0402?theme=dark&font=Karma&ext=heatmap)
+
 ### 📊 GitHub Stats (Minimal)
 ![Sagar's GitHub stats](https://github-readme-stats.vercel.app/api?username=SagarPal04&show_icons=true&theme=tokyonight&hide_title=true)
 
